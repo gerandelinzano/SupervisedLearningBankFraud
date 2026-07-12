@@ -1,0 +1,12 @@
+{
+    "target_column": "Target",
+    "test_size": 0.3,
+    "random_state": 42,
+    "models_trained": [
+        "Logistic Regression",
+        "Decision Tree",
+        "Random Forest",
+        "XGBoost",
+        "SVM"
+    ]
+}
